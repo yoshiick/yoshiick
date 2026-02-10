@@ -1,6 +1,12 @@
 <div id="header" align="center">
 
-**Schrödinger's cat**
+***
+
+**Schrödinger's cat** 
+
+<img src="https://files.catbox.moe/aju2yb.png" alt="alt text" width="xxx">
+
+***
 
 In quantum mechanics, Schrödinger's cat is a thought experiment concerning quantum superposition. In the thought experiment, a hypothetical cat in a closed box may be considered to be simultaneously both alive and dead while it is unobserved, as a result of its fate being linked to a random subatomic event that may or may not occur. This experiment, viewed this way, is described as a paradox. This thought experiment was devised by physicist Erwin Schrödinger in 1935 in a discussion with Albert Einstein to illustrate what Schrödinger saw as the problems of Niels Bohr and Werner Heisenberg's philosophical views on quantum mechanics.
 
@@ -18,12 +24,13 @@ A beryllium ion has been trapped in a superposed state.
 An experiment involving a superconducting quantum interference device ("SQUID") has been linked to the theme of the thought experiment: "The superposition state does not correspond to a billion electrons flowing one way and a billion others flowing the other way. Superconducting electrons move en masse. All the superconducting electrons in the SQUID flow both ways around the loop at once when they are in the Schrödinger's cat state."
 A piezoelectric "tuning fork" has been constructed, which can be placed into a superposition of vibrating and non vibrating states. The resonator comprises about 10 trillion atoms.
 An experiment involving a flu virus has been proposed.
-An experiment involving a bacterium and an electromechanical oscillator has been proposed.[40]
+An experiment involving a bacterium and an electromechanical oscillator has been proposed.
 In quantum computing the phrase "cat state" sometimes refers to the GHZ state, wherein several qubits are in an equal superposition of all being 0 and all being 1; e.g.,
 
 <img src="https://files.catbox.moe/p0gevw.webp" alt="alt text" width="500https://files.catbox.moe/p0gevw.webp">
 
-According to at least one proposal, it may be possible to determine the state of the cat before observing it.
- 
+According to at least one proposal, it may be possible to determine the state of the cat before observing it. 
+
+ ***
 
 <img src="https://files.catbox.moe/29t0mc.jpg" alt="alt text" width="xxx">
